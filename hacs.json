@@ -1,0 +1,6 @@
+{
+  "name": "DHT Sensor",
+  "domains": ["dht"],
+  "iot_class": "local_polling",
+  "homeassistant": "2022.3.8"
+}
